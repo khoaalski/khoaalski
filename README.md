@@ -11,8 +11,9 @@ Aside from that, I LOVE soccer and everything pokemon!
 * TA'd courses on Managerial Economics
 
 ### What I am up to
-* Make [UBC Courses](ubccourses.app) even better!
 * Work in Product Management. During the process of building UBC Courses, I realized I really really enjoy the whole process of discovering a problem and developing a product to solve it!
+* Make [UBC Courses](ubccourses.app) even better!
+* Ship the MVP for Careless Whisperer, an personalized AI text generator for your unessential writings
 
 ### Find me
 Feel free to reach out via my email (kbsch28@gmail.com) or [LinkedIn](https://www.linkedin.com/in/khoa-d-bui/) on anything really - side projects, recruiting, work advice... Always down to spark new connections!

@@ -1,5 +1,5 @@
 ## Hello hello there!
-I'm Khoa (pronounced like quoi in French) and I'm currently an incoming 3th year student at UBC, studying Finance and Business Technology Management.
+I'm Khoa (pronounced like quoi in French) and I'm currently an incoming 4th year student at UBC, studying Finance and Business Technology Management. Not graduating any time soon though - 2026 is the time.
 
 In my free time, I like to build things. Currently working on [UBC Courses](ubccourses.app) - a website for everything UBC courses related and [Careless Whisperer](https://github.com/andrew-fenton/careless-whisperer) - an AI text generator for personalized, casual writing.
 

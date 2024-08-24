@@ -1,7 +1,7 @@
 ## Hello hello there!
 I'm Khoa (pronounced like quoi in French) and I'm currently a 3rd (4th?) year student at UBC, studying Finance and Business Technology Management.
 
-In my free time, I like to build things. Currently working on [UBC Courses](ubccourses.app) - a website for everything UBC courses related.
+In my free time, I like to build things. Currently working on [UBC Courses](ubccourses.app) - a website for everything UBC courses related and [Careless Whisperer](https://github.com/andrew-fenton/careless-whisperer) - an AI text generator for personalized, casual writing.
 
 Aside from that, I LOVE soccer and everything pokemon!
 
